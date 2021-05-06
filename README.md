@@ -1,5 +1,5 @@
 # note-taker
-
+11 Express.js: Note Taker
 
 ![GitHub top language](https://img.shields.io/github/languages/top/TatyanaYarush/note-taker?color=green&logo=Javascript)
 ![GitHub language count](https://img.shields.io/github/languages/count/TatyanaYarush/note-taker)
@@ -47,6 +47,10 @@ npm install --save-dev nodemon
 npm i express
 npm install uuid
 ```
+
+## Walkthrough video
+![](/public/assets/css/note_taker.gif)
+
 
 ## Tools & Resources & Technologies
 <p>
