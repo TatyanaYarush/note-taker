@@ -46,6 +46,8 @@ module.exports = function (app) {
   });
 };
 
+
+
 //     app.delete('/api/notes/:id', function(req, res) {
 //         // Gets id number of note to delete
 //         const deleteNote = req.params.id;
