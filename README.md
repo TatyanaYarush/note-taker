@@ -1,10 +1,11 @@
-# note-taker
-11 Express.js: Note Taker
-
 ![GitHub top language](https://img.shields.io/github/languages/top/TatyanaYarush/note-taker?color=green&logo=Javascript)
 ![GitHub language count](https://img.shields.io/github/languages/count/TatyanaYarush/note-taker)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/TatyanaYarush/note-taker?color=orange&label=HTML&logoColor=orange)
 
+# note-taker
+11 Express.js: Note Taker
+
+[Link to open note taker](https://your-note-taker.herokuapp.com/notes)
 
 ## Introduction
 
