@@ -51,6 +51,7 @@ npm install uuid
 ## Walkthrough video
 ![](/public/assets/css/note_taker.gif)
 
+ - YouTube Video: [Walkthrough DemoVideo](https://www.youtube.com/watch?v=AiNr7HZOOuk)
 
 ## Tools & Resources & Technologies
 <p>
