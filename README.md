@@ -43,6 +43,8 @@ Install the packages/dependencies by hitting following command on your terminal 
 
 ```
 npm install
+npm init
+npm install jest
 npm i nodemon -g
 npm install --save-dev nodemon
 npm i express
